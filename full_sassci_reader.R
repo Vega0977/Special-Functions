@@ -26,5 +26,3 @@ load.SAScii <- function(SAScii_Data, SAScii_Setup) {
   colnames(SASciiFrame) <- columnNameList
   return(SASciiFrame)
 }
-
-#manually changed the name of the last DS file because it was screwing things up
